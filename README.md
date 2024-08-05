@@ -65,7 +65,7 @@ Once you've done this, reconnect using your new password, install dependencies a
 ```
 sudo apt-get update
 sudo apt-get install -y git php dnsmasq dnsmasq-base macchanger hostapd
-git clone https://github.com/NickJongens/PiEvilTwin
+git clone https://github.com/sc62070/PiEvilTwin
 cd PiEvilTwin
 chmod +x install.sh
 sudo ./install.sh
